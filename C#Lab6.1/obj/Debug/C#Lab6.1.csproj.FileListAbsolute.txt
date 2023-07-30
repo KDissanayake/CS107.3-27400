@@ -1,0 +1,8 @@
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\bin\Debug\C#Lab6.1.exe.config
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\bin\Debug\C#Lab6.1.exe
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\bin\Debug\C#Lab6.1.pdb
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\obj\Debug\C#Lab6.1.csproj.AssemblyReference.cache
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\obj\Debug\C#Lab6.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\obj\Debug\C#Lab6.1.csproj.CoreCompileInputs.cache
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\obj\Debug\C#Lab6.1.exe
+C:\Users\kithm\OneDrive\Documents\C#Lab6.1\obj\Debug\C#Lab6.1.pdb
