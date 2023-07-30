@@ -1,0 +1,8 @@
+C:\Users\kithm\OneDrive\Documents\C#lab4\obj\Debug\C#lab4.csproj.AssemblyReference.cache
+C:\Users\kithm\OneDrive\Documents\C#lab4\obj\Debug\C#lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kithm\OneDrive\Documents\C#lab4\obj\Debug\C#lab4.csproj.CoreCompileInputs.cache
+C:\Users\kithm\OneDrive\Documents\C#lab4\bin\Debug\C#lab4.exe.config
+C:\Users\kithm\OneDrive\Documents\C#lab4\bin\Debug\C#lab4.exe
+C:\Users\kithm\OneDrive\Documents\C#lab4\bin\Debug\C#lab4.pdb
+C:\Users\kithm\OneDrive\Documents\C#lab4\obj\Debug\C#lab4.exe
+C:\Users\kithm\OneDrive\Documents\C#lab4\obj\Debug\C#lab4.pdb
