@@ -1,0 +1,8 @@
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\bin\Debug\C#Lab5Funtions.exe.config
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\bin\Debug\C#Lab5Funtions.exe
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\bin\Debug\C#Lab5Funtions.pdb
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\obj\Debug\C#Lab5Funtions.csproj.AssemblyReference.cache
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\obj\Debug\C#Lab5Funtions.csproj.SuggestedBindingRedirects.cache
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\obj\Debug\C#Lab5Funtions.csproj.CoreCompileInputs.cache
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\obj\Debug\C#Lab5Funtions.exe
+C:\Users\kithm\OneDrive\Documents\C#Lab5Funtions\obj\Debug\C#Lab5Funtions.pdb
