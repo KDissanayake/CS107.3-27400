@@ -1,0 +1,3 @@
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 5\employee details\obj\Debug\employee details.csproj.AssemblyReference.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 5\employee details\obj\Debug\employee details.csproj.SuggestedBindingRedirects.cache
+C:\Users\yvant_59t1fh3\OneDrive - NSBM\YEAR 1\SEM 2\Object oriented programming with C sharp\Practical\Practical 5\employee details\obj\Debug\employee details.csproj.CoreCompileInputs.cache
